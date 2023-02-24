@@ -22,4 +22,8 @@ Pull requestler kabul edilir.Büyük değişiklikler için,lütfen önce neyi de
 ## Lİcense 
 [Mıt](https://choosealicense.com/licenses/mit/)
 
+---
+
+[patika dev adresim](https://app.patika.dev/sehergurel)
+
 
